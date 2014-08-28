@@ -1,0 +1,21 @@
+menu:
+  Home: /
+  Archives: /archives
+  Project: /project
+  About: /about
+addthis:
+  enable: true
+  pubid:
+  facebook: true
+  twitter: true
+  google: true
+  pinterest: true
+
+facebook:
+google_plus:
+twitter:
+github: "wufeifei"
+
+fancybox: true
+google_analytics:
+rss:

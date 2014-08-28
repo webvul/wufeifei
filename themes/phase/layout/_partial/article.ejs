@@ -1,0 +1,45 @@
+<article class="<% if (item.layout == 'page'){ %>page<% } else { %>post<% } %>">
+  <% if (item.photos){ %>
+    <%- partial('post/gallery') %>
+  <% } %>
+  <header>
+    <%- partial('post/title') %>
+    <% if (item.layout != 'page'){ %><%- partial('post/date') %><% } %>
+  </header>
+  <div class="entry-content">
+    <% if (item.excerpt && index){ %>
+      <%- item.excerpt %>
+    <% } else { %>
+      <%- item.content %>
+    <% } %>
+   <% if (!index){ %>
+    <p class="copyright">欢迎转载，但必须转载后注明出处以及附带原文链接</p>
+    <div id="SOHUCS" sid="<%- item.title %>"></div>
+    <script>
+    (function(){
+            var appid = 'cyrljHCqg',
+            conf = 'prod_f95723773e1286ffa39ad49df613baaf';
+            var doc = document,
+            s = doc.createElement('script'),
+            h = doc.getElementsByTagName('head')[0] || doc.head || doc.documentElement;
+            s.type = 'text/javascript';
+            s.charset = 'utf-8';
+            s.src =  'http://assets.changyan.sohu.com/upload/changyan.js?conf='+ conf +'&appid=' + appid;
+            h.insertBefore(s,h.firstChild);
+            window.SCS_NO_IFRAME = true;
+          
+    })()
+    </script> 
+    <% } %>
+    <% if (item.layout != 'page'){ %>
+    <footer class="meta">
+      <%- partial('post/category') %>
+      <%- partial('post/tag') %>
+      <% if (config.disqus_shortname && item.comment){ %>
+        <a href="<%- item.permalink %>#disqus_thread" class="comment"><%= __('comment') %></a>
+      <% } %>
+    </footer>
+    <% } %>
+  </div>
+  <%- partial('comment') %>
+</article>
