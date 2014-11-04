@@ -7,6 +7,8 @@ tags:
 
 > CSP主要用来定义页面可以加载哪些资源,可以部分防止跨站脚本等危害.在CSP之前可以使用X-Frame-Options能有效防止ClickJaking(点击劫持)攻击.关于点击劫持以后再讲
 
+<!-- more -->
+
 ####浏览器支持
 	Content-Security-Policy
 		- Chrome 26+

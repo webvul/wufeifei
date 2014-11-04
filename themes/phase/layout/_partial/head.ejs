@@ -12,9 +12,8 @@
     if (page.year) title.push(__('archive_b', page.year + (page.month ? '/' + page.month : '')));
     else title.push(__('archive_a'));
   }
-  title.push(config.title);
   %>
-  <title><%= title.join(' | ') %></title>
+  <title><%= title %></title>
   <% if (config.author){ %><meta name="author" content="<%= config.author %>"><% } %>
   <link rel="shortcut icon" href="img/favicon.ico">
   <% if (page.description){ %>

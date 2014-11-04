@@ -42,6 +42,10 @@ Web入侵安全测试与对策
 堆栈攻击：八层网络安全防御
 白帽子讲Web安全
 Essential PHP Security
+The Web Application Hacker's Handbook
+Fuzzing:Brute Force Vulnerability Discovery
+The Tangled Web:A Guide to Securing Modern Web Applications
+Web Application Exploits and Defense
 
 ####HTML/CSS/JAVASCRIPT
 编写高质量代码-WEB前端开发修炼之道
@@ -58,7 +62,7 @@ PHP设计模式
 深入PHP：面向对象、模式与实践(第三版)
 PHP应用程序安全编程
 
-####Sql
+####SQL
 高可用MySQL-构建健壮的数据中心
 MySQL技术内幕(第4版)
 MySQL性能调优与架构设计
@@ -86,3 +90,11 @@ Linux高性能服务器编程
 明朝那些事
 三重门
 坏蛋
+
+####电视剧
+三国演义
+水浒传
+绿箭侠
+行尸走肉
+丧尸国度
+哥谭镇
