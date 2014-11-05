@@ -2,10 +2,12 @@ title: BackTrack支持破解wifi的网卡
 date: 2012-04-23 11:55:43
 tags:
 - safe
+
 ---
-{% blockquote %}
-很多时候弱口令就能直接过wifi了，但是随着安全的普及，大家防范意识也提高了，会讲wifi密码设置为电话号码之类的，这时候就得用上BackTrack了。以下列出支持破解wifi的网卡：
-{% endblockquote %}
+
+>很多时候弱口令就能直接过wifi了，但是随着安全的普及，大家防范意识也提高了，会讲wifi密码设置为电话号码之类的，这时候就得用上BackTrack了。以下列出支持破解wifi的网卡：
+
+<!-- more -->
 
 1. AWUS036H (rtl8187, r8187)
 2. AWUS036NH (Ralink RT2870/3070)

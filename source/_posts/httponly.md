@@ -6,6 +6,8 @@ tags:
 ---
 	HttpOnly是设置在浏览器中,使JavaScript无法获取Cookie数据,有效减少XSS危害
 	
+<!-- more -->
+
 #### 浏览器支持
 	2011年已超过99%浏览器支持HttpOnly
 

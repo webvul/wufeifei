@@ -2,8 +2,13 @@ title: npm install error
 date: 2012-03-22 23:39:26
 tags:
 - node
+
 ---
-npm安装包失败
+
+> npm安装包失败
+
+<!-- more -->
+
 ```Bash
 npm http GET https://registry.npmjs.org/socket.io
 npm ERR! Error: failed to fetch from registry: socket.io

@@ -2,8 +2,13 @@ title: SSH闲置超时断开
 date: 2012-03-23 11:43:34
 tags:
 - linux
+
 ---
-用SSH链接远程服务器时经常遇到长时间不操作的时候SSH链接断开的情况
+
+> 用SSH链接远程服务器时经常遇到长时间不操作的时候SSH链接断开的情况
+
+<!-- more -->
+
 ```Bash
 Write failed: Broken pipe
 ```
