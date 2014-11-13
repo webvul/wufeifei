@@ -65,8 +65,8 @@ header("Content-Security-Policy: script-src 'self' 'unsafe-inline' 'unsafe-eval'
 |\*.wufeifei.com|允许加载子域|
 |https://wufeifei.com|允许加载https指定域|
 |https:|允许加载https资源|
-|'unsafe-inline'|允许加载inline资源|
-|'unsafe-eval'|允许动态加载js,如eval()|
+|'unsafe-inline'|允许加载内联资源|
+|'unsafe-eval'|允许动态加载js,如eval()/newFunction()/setTimeout()/setInterval()|
 
 #### 一.CSP
 
