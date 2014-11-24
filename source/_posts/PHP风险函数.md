@@ -1,7 +1,7 @@
 title: PHP风险函数
 date: 2013-10-05 16:54:26
 tags:
-- safe
+- security
 - php
 
 ---

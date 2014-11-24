@@ -1,7 +1,8 @@
 title: 破解Linux密码
 date: 2013-03-05 16:08:10
 tags:
-- safe
+
+- security
 
 ---
 

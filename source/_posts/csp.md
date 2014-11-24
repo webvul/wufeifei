@@ -1,7 +1,7 @@
 title: CSP(Content Security Policy 内容安全策略)
 date: 2013-06-24 23:11:45
 tags:
-- safe
+- security
 
 ---
 

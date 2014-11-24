@@ -1,7 +1,7 @@
 title: sql injection
 date: 2014-09-11 12:24:17
 tags:
-- safe
+- security
 
 ---
 

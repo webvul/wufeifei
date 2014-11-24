@@ -1,7 +1,7 @@
 title: XSS综合防御
 date: 2014-10-01 11:25:46
 tags:
-- safe
+- security
 
 ---
 

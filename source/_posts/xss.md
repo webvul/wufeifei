@@ -1,7 +1,9 @@
 title: XSS(Cross Site Scripting) 跨站脚本
 date: 2013-03-23 23:52:12
 tags:
-- safe
+
+- security
+
 ---
 
 

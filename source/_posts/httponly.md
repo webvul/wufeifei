@@ -1,7 +1,8 @@
 title: HttpOnly
 date: 2013-03-20 01:23:13
 tags:
-- safe
+
+- security
 
 ---
 	HttpOnly是设置在浏览器中,使JavaScript无法获取Cookie数据,有效减少XSS危害

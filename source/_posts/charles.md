@@ -1,7 +1,8 @@
 title: Charles花瓶调试HTTPS网页
 date: 2012-04-13 21:06:10
 tags:
-- safe
+
+- security
 
 ---
 
@@ -9,7 +10,7 @@ tags:
 
 <!-- more -->
 
-* 打开Safari输入 http://wufeifei.com/file/charles.crt 下载Charles证书安装
+* 手机打开Safari输入 http://wufeifei.com/file/charles.crt 下载Charles证书安装
 
 * 在Charles的工具栏上点击设置按钮，选择Proxy Settings,切换到SSL选项卡，选中Enable SSL Proxying
 
