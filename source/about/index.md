@@ -1,31 +1,30 @@
 title: 关于
 date: 2014-08-23 11:01:21
 ---
-####我是谁
+#### 我是谁
 
 名称：吴止介
 邮箱：wufeifei#wufeifei.com
 微博：{% link 吴止介 http://weibo.com/333029888 %}
-微信：syrdxb
 
-####我要干嘛
+#### 我要干嘛
 我要改变世界你信嘛？
 
 #### 我会写什么
-主要侧重WEB这块，包括但不限于业内最新产品、WEB安全、前端技术、个人感悟、Linux、Shell、PHP、Node、iOS、用户体验、MacBook、GTD、树莓派、电脑硬件等
+主要侧重WEB这块，包括但不限于WEB安全、算法、前端技术、个人感悟、Linux、Shell、PHP、Node、iOS、用户体验、MacBook、GTD、树莓派、电脑硬件等
 
 #### 看过以及正在看的书
-###想读
-三体
+### 想读
 1984
 
-###正在读
+### 正在读
+三体
 Anti-Hacker Tool Kit, 4th Edition
 疯狂iOS讲义
 
-###读过
+### 读过
 
-####Safe
+#### Safe
 WEB安全测试
 经典密码学与现代密码学
 BackTrack 5 Cookbook
@@ -47,7 +46,7 @@ Fuzzing:Brute Force Vulnerability Discovery
 The Tangled Web:A Guide to Securing Modern Web Applications
 Web Application Exploits and Defense
 
-####HTML/CSS/JAVASCRIPT
+#### HTML/CSS/JAVASCRIPT
 编写高质量代码-WEB前端开发修炼之道
 HTML5与CSS3权威指南
 HTML5 移动 Web 开发指南
@@ -56,13 +55,13 @@ jQuery
 jQuery UI
 jQuery Mobile
 
-####PHP
+#### PHP
 PHP设计模式
 高性能PHP应用开发
 深入PHP：面向对象、模式与实践(第三版)
 PHP应用程序安全编程
 
-####SQL
+#### SQL
 高可用MySQL-构建健壮的数据中心
 MySQL技术内幕(第4版)
 MySQL性能调优与架构设计
@@ -71,7 +70,7 @@ MySQL性能调优与架构设计
 SQL宝典
 Programming Hive
 
-####Linux
+#### Linux
 Linux Shell 脚本攻略
 深入理解Linux虚拟内存管理
 Linux内核编程
@@ -83,7 +82,7 @@ Linux宝典(第4版)
 高性能Linux服务器构建实战：运维监控、性能调优与集群应用
 Linux高性能服务器编程
 
-####小说传记
+#### 小说传记
 浪潮之巅
 史蒂夫乔布斯传
 平凡的世界
@@ -91,9 +90,10 @@ Linux高性能服务器编程
 三重门
 坏蛋
 
-####电视剧
+#### 电视剧
 三国演义
 水浒传
+越狱
 绿箭侠
 行尸走肉
 丧尸国度
