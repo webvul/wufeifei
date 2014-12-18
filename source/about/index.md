@@ -3,7 +3,7 @@ date: 2014-08-23 11:01:21
 ---
 #### 我是谁
 
-名称：吴止介
+名称：止介/ Feei
 邮箱：wufeifei#wufeifei.com
 微博：{% link 吴止介 http://weibo.com/333029888 %}
 
@@ -18,11 +18,11 @@ date: 2014-08-23 11:01:21
 1984
 
 ### 正在读
-三体
+三体（一、二部）
 Anti-Hacker Tool Kit, 4th Edition
-疯狂iOS讲义
+疯狂iOS讲义以及其它iOS相关
 
-### 读过
+### 读过并且觉得不错可以推荐的
 
 #### Safe
 WEB安全测试
@@ -46,20 +46,32 @@ Fuzzing:Brute Force Vulnerability Discovery
 The Tangled Web:A Guide to Securing Modern Web Applications
 Web Application Exploits and Defense
 
-#### HTML/CSS/JAVASCRIPT
+#### HTML/CSS/JAVASCRIPT/NodeJS
 编写高质量代码-WEB前端开发修炼之道
 HTML5与CSS3权威指南
 HTML5 移动 Web 开发指南
 HTML5+CSS3网页设计经典范例
-jQuery
-jQuery UI
-jQuery Mobile
+JavaScript语言精粹
+深入浅出NodeJS
 
 #### PHP
 PHP设计模式
 高性能PHP应用开发
 深入PHP：面向对象、模式与实践(第三版)
 PHP应用程序安全编程
+
+#### Python
+简明Python教程
+Python标准库(一、二)
+Python科学计算
+深入Python
+
+#### iOS
+疯狂iOS讲义
+iOS开发指南
+精通iOS开发
+Swift开发指南
+Object-C编程之道
 
 #### SQL
 高可用MySQL-构建健壮的数据中心
@@ -82,9 +94,14 @@ Linux宝典(第4版)
 高性能Linux服务器构建实战：运维监控、性能调优与集群应用
 Linux高性能服务器编程
 
-#### 小说传记
+#### 其它技术书籍
+程序员的职业素养
+黑客与画家
+卓有成效的程序员
 浪潮之巅
-史蒂夫乔布斯传
+乔布斯传
+
+#### 小说传记
 平凡的世界
 明朝那些事
 三重门
